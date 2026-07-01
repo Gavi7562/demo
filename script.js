@@ -7,4 +7,4 @@ console.log(operators)
 
 document.getElementById('num1').addEventListener('click',()=>{
     display.value = "1"
-})
+})     
