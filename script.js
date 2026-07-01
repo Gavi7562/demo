@@ -8,3 +8,6 @@ console.log(operators)
 document.getElementById('num1').addEventListener('click',()=>{
     display.value = "1"
 })     
+document.getElementById('num2').addEventListener('click',()=>{
+    display.value = "2"
+})     
